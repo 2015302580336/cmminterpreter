@@ -1,0 +1,15 @@
+int a;
+int b[10];
+int c = 9;
+b[c] = 9;
+a = 12;
+write a;
+write b[9];
+write c;
+
+/*
+标准输出
+12
+9
+9
+*/

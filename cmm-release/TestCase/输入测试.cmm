@@ -1,0 +1,7 @@
+int a = 1;
+read a;
+write a;
+real b = 2;
+write b;
+read b;
+write b;
